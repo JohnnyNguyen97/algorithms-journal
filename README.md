@@ -16,5 +16,5 @@
 | Chapter | Topic | Notes | LeetCode Practice |
 |----------|--------|--------|------------------|
 | 1 | Binary Search | [📄 Notes](notes/Chapter1_binary_search.pdf) | 
-| 1 | Binary Search | [📄 Notes](notes/Chapter1_big_o.pdf) | 
+| 1 | Big O notation | [📄 Notes](notes/Chapter1_big_o.pdf) | 
 
