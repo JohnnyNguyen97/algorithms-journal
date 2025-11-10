@@ -2,7 +2,7 @@
 
 ### 🗓 Week 1 – Foundations 
 - [x] Binary Search  
-- [ ] Big-O Notation  
+- [x] Big-O Notation  
 - [ ] Recursion  
 
 ### 🗓 Week 2 – Data Structures
@@ -15,5 +15,6 @@
 
 | Chapter | Topic | Notes | LeetCode Practice |
 |----------|--------|--------|------------------|
-| 1 | Binary Search | [📄 Notes](notes/Chapter1_binary_search.pdf) | [Binary Search](week1/binary_search.py) |
+| 1 | Binary Search | [📄 Notes](notes/Chapter1_binary_search.pdf) | 
+| 1 | Binary Search | [📄 Notes](notes/Chapter1_big_o.pdf) | 
 
