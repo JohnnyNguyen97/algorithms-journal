@@ -15,5 +15,5 @@
 
 | Chapter | Topic | Notes | LeetCode Practice |
 |----------|--------|--------|------------------|
-| 1 | Binary Search | [📄 Notes](notes/chapter1_binary_search.pdf) | [Binary Search](week1/binary_search.py) |
+| 1 | Binary Search | [📄 Notes](notes/Chapter1_binary_search.pdf) | [Binary Search](week1/binary_search.py) |
 
