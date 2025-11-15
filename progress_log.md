@@ -21,3 +21,4 @@
 - Start learning sorting algorithms (Quicksort).
 - Implement BFS on graph problems.
 - Solve at least 3 LeetCode medium-difficulty questions.
+- Learning more about algorithms
