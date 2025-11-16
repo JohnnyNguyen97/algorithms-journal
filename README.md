@@ -21,4 +21,4 @@
 | 1       | Binary Search  | [📄 Notes](notes/Chapter1_binary_search.pdf)  |
 | 1       | Big O notation | [📄 Notes](notes/Chapter1_big_o.pdf)          |
 | 2       | Selection Sort | [📄 Notes](notes/Chapter2_selection_sort.pdf) |
-| 3       | Recursion      | Incoming very soon                            |
+| 3       | Recursion      | [📄 Notes](notes/Chapter3_recursion.pdf)      |
